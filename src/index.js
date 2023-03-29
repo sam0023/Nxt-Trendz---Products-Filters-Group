@@ -6,7 +6,7 @@ import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/Nxt-Trendz---Products-Filters-Group' >
       <App />
     </BrowserRouter>
   </React.StrictMode>,
